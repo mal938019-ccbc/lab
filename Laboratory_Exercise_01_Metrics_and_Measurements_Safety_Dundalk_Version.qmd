@@ -326,29 +326,29 @@ A primary advantage of the metric system is the ease with which units can be con
 
 **Table 1.1 Metric Prefixes**
 
-+-------------+-------------+------------------------+-------------------------+
-|             |             |                        |                         |
-+=============+=============+========================+=========================+
-| **Prefix**  | **Unit**    | **Multiplier**         | **Scientific Notation** |
-+-------------+-------------+------------------------+-------------------------+
-| **Kilo-**   | k           | 1,000                  | 10^3^                   |
-+-------------+-------------+------------------------+-------------------------+
-| **Hecto-**  | h           | 100                    | 10^2^                   |
-+-------------+-------------+------------------------+-------------------------+
-| **Deca-**   | da          | 10                     | 10^1^                   |
-+-------------+-------------+------------------------+-------------------------+
-| **One**     | base        | 1                      | 10                      |
-|             |             |                        |                         |
-|             | (m, L, g)   |                        |                         |
-+-------------+-------------+------------------------+-------------------------+
-| **Deci-**   | d           | 0.1 = 1/10             | 10^-1^                  |
-+-------------+-------------+------------------------+-------------------------+
-| **Centi-**  | c           | 0.01 = 1/100           | 10^-2^                  |
-+-------------+-------------+------------------------+-------------------------+
-| **Milli-**  | m           | 0.001 = 1/1,000        | 10^-3^                  |
-+-------------+-------------+------------------------+-------------------------+
-| **Micro-**  | µ           | 0.000001 = 1/1,000,000 | 10^-6^                  |
-+-------------+-------------+------------------------+-------------------------+
++--------------+--------------+------------------------+-------------------------+
+|              |              |                        |                         |
++==============+==============+========================+=========================+
+| **Prefix**   | **Unit**     | **Multiplier**         | **Scientific Notation** |
++--------------+--------------+------------------------+-------------------------+
+| **Kilo-**    | k            | 1,000                  | 10^3^                   |
++--------------+--------------+------------------------+-------------------------+
+| **Hecto-**   | h            | 100                    | 10^2^                   |
++--------------+--------------+------------------------+-------------------------+
+| **Deca-**    | da           | 10                     | 10^1^                   |
++--------------+--------------+------------------------+-------------------------+
+| **One**      | base         | 1                      | 10                      |
+|              |              |                        |                         |
+|              | (m, L, g)    |                        |                         |
++--------------+--------------+------------------------+-------------------------+
+| **Deci-**    | d            | 0.1 = 1/10             | 10^-1^                  |
++--------------+--------------+------------------------+-------------------------+
+| **Centi-**   | c            | 0.01 = 1/100           | 10^-2^                  |
++--------------+--------------+------------------------+-------------------------+
+| **Milli-**   | m            | 0.001 = 1/1,000        | 10^-3^                  |
++--------------+--------------+------------------------+-------------------------+
+| **Micro-**   | µ            | 0.000001 = 1/1,000,000 | 10^-6^                  |
++--------------+--------------+------------------------+-------------------------+
 
 **Table 1.2 Mnemonics to help memorize the metric prefixes**
 
@@ -378,21 +378,21 @@ In Metric conversions, when you are converting a smaller unit to a larger unit, 
 
 Using the steps above, complete the following problems:
 
-1.  50 mm = \_\_\_\_\_\_\_\_ cm
+1.  50 mm = \_\_\_[5]{.underline}\_\_\_\_ cm
 
-2.  50 cm = \_\_\_\_\_\_\_\_\_ km
+2.  50 cm = \_[0.0005]{.underline}\_ km
 
-3.  700 mL = \_\_\_\_\_\_\_\_\_ L
+3.  700 mL = \_\_[0.7]{.underline}\_\_\_ L
 
-4.  30 m = \_\_\_\_\_\_\_\_\_\_ µm
+4.  30 m = \_[30,000,000]{.underline}\_ µm
 
-5.  3 dm = \_\_\_\_\_\_\_\_\_\_\_\_ m
+5.  3 dm = \_\_\_[0.3]{.underline}\_\_\_\_ m
 
-6.  15 kg = \_\_\_\_\_\_\_\_\_\_\_\_ cg
+6.  15 kg = \_[1,500,000]{.underline}\_ cg
 
-7.  55 L = \_\_\_\_\_\_\_\_\_\_\_\_\_ mL
+7.  55 L = \_\_\_[55,000]{.underline}\_\_ mL
 
-8.  52 mg = \_\_\_\_\_\_\_\_\_\_\_\_ µg
+8.  52 mg = \_\_[52,000]{.underline}\_ µg
 
 **Lab Activity 1.2: Measuring Using the Metric System**
 
@@ -726,19 +726,19 @@ AI-generated content may be incorrect."}
 
 1.  What should you do if a chemical gets in your eyes?\
     A. Ignore it\
-    B. Flush with water immediately\
+    **B. Flush with water immediately**\
     C. Leave lab\
     D. Tell a classmate
 
 2.  Where should broken glass be disposed of?\
     A. Trash\
     B. Sink\
-    C. Designated container\
+    **C. Designated container**\
     D. Floor
 
 3.  Why should you not eat in the lab?\
     A. Messy\
-    B. Contamination risk\
+    **B. Contamination risk**\
     C. Rules only\
     D. No reason
 
@@ -746,35 +746,67 @@ AI-generated content may be incorrect."}
 
 4.  Describe one hazard you observed or learned about.
 
+    - Wash hands for 30 seconds before leaving the lab.
+
 5.  How does PPE reduce risk in the lab?
+
+    - Reducing the risk from chemical hazard and physical injuries.
 
 6.  Which measuring device was most precise for measuring liquid volume, and why?
 
+    - Graduated cylinder, it can measure the small volume accurately.
+
 7.  Which device was the least precise for measuring 10 mL of liquid?
+
+    - Beaker.
 
 8.  Was the most precise instrument also the most accurate? Explain your answer using your data.
 
+    - Yes. The closer the volume in the measurement markings are, the more accurate it can be.
+
 9.  Why is it important to read the bottom of the meniscus when measuring liquid volume?
+
+    - The bottom of meniscus is the accurate reading for the volume.
 
 10. How does the base‑10 structure of the metric system reduce calculation errors?
 
+    - Makes the conversion easy.
+
 11. What source of error could affect mass or volume measurements in this lab?
+
+    - Incorrectly reading of volume measurement or incorrectly recording the data.
 
 12. Explain why SI units are essential for communicating scientific data.
 
+    - it's universal, easy for everyone to understand.
+
 13. Convert 250 mL to liters.
+
+    - 0.250L
 
 14. A cell is 5 µm wide. How many meters is this?
 
+    - 5 x 10^-6^
+
 15. Explain one advantage of using Celsius in biology experiments.
+
+    - Easier read and widely used.
 
 16. Which metric prefix would be most appropriate for measuring bacterial size, and why?
 
+    - Micro, bacteria are very small, hard to see with naked eye.
+
 17. Describe a potential laboratory error that could occur if imperial units were used instead of SI units.
+
+    - Measurement incorrectly read or incorrectly recorded.
 
 18. Describe one hazard you observed or learned about.
 
+    - Chemical splashing or spilling.
+
 19. How does PPE reduce risk in the lab?
+
+    - Lessen the possibilities of getting any type of injury.
 
 **Additional Student Resources**
 
