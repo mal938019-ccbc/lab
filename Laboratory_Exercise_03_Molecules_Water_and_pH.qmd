@@ -361,17 +361,17 @@ In this exercise, you will observe how water can move from one container to anot
 **Table 3 (Paper Towel Water Movement Observations): (Demonstrated by Professor Martin)**\
 A table for recording observations during an experiment where a paper towel connects two beakers, one with water and one empty. Students note changes over time, such as water movement and levels in each beaker, at regular intervals.
 
-+--------------------+--------------------------------------------------+
-| > **Elapsed Time** | **Observations**                                 |
-| >                  |                                                  |
-| > **(in minutes)** |                                                  |
-+:==================:+==================================================+
-| 0                  |                                                  |
-+--------------------+--------------------------------------------------+
-| 60                 |                                                  |
-+--------------------+--------------------------------------------------+
-| 120                |                                                  |
-+--------------------+--------------------------------------------------+
++--------------------+-------------------------------------------------+
+| > **Elapsed Time** | **Observations**                                |
+| >                  |                                                 |
+| > **(in minutes)** |                                                 |
++:==================:+=================================================+
+| 0                  |                                                 |
++--------------------+-------------------------------------------------+
+| 60                 |                                                 |
++--------------------+-------------------------------------------------+
+| 120                |                                                 |
++--------------------+-------------------------------------------------+
 
 ## **Activity 3: Demonstration of Surface Tension (Adhesion and Cohesion)**
 
@@ -407,17 +407,17 @@ You will use a molecular model kit to build three-dimensional representations of
 > **Table 5 (Element Spheres and Bonding): NOT OBSERVED BY THE CLASS.**\
 > A table for identifying common elements shown as spheres in molecular models, with columns to list each element and the number of bonds it typically forms.
 
-+--------------------+--------------------+----------------------------+
-| > **Sphere color** | > **Element**      | > **\# of bonds it forms** |
-+:==================:+====================+============================+
-| > black            |                    |                            |
-+--------------------+--------------------+----------------------------+
-| > white            |                    |                            |
-+--------------------+--------------------+----------------------------+
-| > red              |                    |                            |
-+--------------------+--------------------+----------------------------+
-| > blue             |                    |                            |
-+--------------------+--------------------+----------------------------+
++--------------------+-------------------+----------------------------+
+| > **Sphere color** | > **Element**     | > **\# of bonds it forms** |
++:==================:+===================+============================+
+| > black            |                   |                            |
++--------------------+-------------------+----------------------------+
+| > white            |                   |                            |
++--------------------+-------------------+----------------------------+
+| > red              |                   |                            |
++--------------------+-------------------+----------------------------+
+| > blue             |                   |                            |
++--------------------+-------------------+----------------------------+
 
 2.  Build a molecular model for each molecule listed in the table below. Use the molecular formula to collect the correct spheres first, then put them together so that every hole is filled with a bond. Have your instructor verify your models Write the structural formula from the model you built in the table below. *Hint: some of these molecules may include double or triple bonds*
 
@@ -483,15 +483,15 @@ You will use a molecular model kit to build three-dimensional representations of
 > **Table 9 (Isomers of C₂H₆O):**\
 > A table where students draw and compare two different structural formulas for molecules with the same molecular formula (C₂H₆O), illustrating that the same formula can produce different structures (isomers).
 
-+-------------------------------------------------------------------------------------------+-------------------------+--------------------------+
-| > **Molecule**                                                                            | > **Molecular Formula** | > **Structural formula** |
-+===========================================================================================+=========================+==========================+
-| > Ethanol *(Start by making a hydroxyl group.*                                            |                         |                          |
-+-------------------------------------------------------------------------------------------+-------------------------+--------------------------+
-| > Dimethyl ether *(Start by making two methyl groups)*                                    |                         |                          |
-| >                                                                                         |                         |                          |
-| > *Hint: from the name of this molecule, which functional group must this molecule have?* |                         |                          |
-+-------------------------------------------------------------------------------------------+-------------------------+--------------------------+
++-------------------------------------------------------------------------------------------+----------------------------------------------------+---------------------------------------+
+| > **Molecule**                                                                            | > **Molecular Formula**                            | > **Structural formula**              |
++===========================================================================================+====================================================+=======================================+
+| > Ethanol *(Start by making a hydroxyl group.*                                            | ![](images/paste-22.png){width="183" height="124"} | ![](images/paste-21.png){width="144"} |
++-------------------------------------------------------------------------------------------+----------------------------------------------------+---------------------------------------+
+| > Dimethyl ether *(Start by making two methyl groups)*                                    | ![](images/paste-23.png){width="181"}              | ![](images/paste-24.png)              |
+| >                                                                                         |                                                    |                                       |
+| > *Hint: from the name of this molecule, which functional group must this molecule have?* |                                                    |                                       |
++-------------------------------------------------------------------------------------------+----------------------------------------------------+---------------------------------------+
 
 > Chemical reactions involve the breaking and forming of bonds. In this exercise, you will use molecular models to simulate these processes by modeling the formation of urea from ammonia
 >
@@ -512,17 +512,17 @@ d.  Combine the remaining molecules to construct Urea.
 **Table 10 (Reactants and Products---Modeling Reaction):**\
 A table for recording molecular structures and identifying whether each is a reactant or product in a model activity. Students build ammonia and carbon dioxide molecules, rearrange atoms to form water, and combine remaining atoms to form urea, then record the structural formulas and classify each substance accordingly.
 
-+------------------+----------------------------+--------------------------+
-| > **Molecule**   | > **Product or Reactant?** | > **Structural formula** |
-+==================+============================+==========================+
-| > Ammonia        |                            |                          |
-+------------------+----------------------------+--------------------------+
-| > Carbon dioxide |                            |                          |
-+------------------+----------------------------+--------------------------+
-| > Urea           |                            |                          |
-+------------------+----------------------------+--------------------------+
-| > Water          |                            |                          |
-+------------------+----------------------------+--------------------------+
++------------------+----------------------------+---------------------------------------+
+| > **Molecule**   | > **Product or Reactant?** | > **Structural formula**              |
++==================+============================+=======================================+
+| > Ammonia        | Reactant                   | ![](images/paste-28.png){width="88"}  |
++------------------+----------------------------+---------------------------------------+
+| > Carbon dioxide | Reactant                   | ![](images/paste-25.png){width="96"}  |
++------------------+----------------------------+---------------------------------------+
+| > Urea           | Product                    | ![](images/paste-27.png){width="211"} |
++------------------+----------------------------+---------------------------------------+
+| > Water          | Product                    | ![](images/paste-26.png){width="99"}  |
++------------------+----------------------------+---------------------------------------+
 
 ## **Post-Lab Activities**
 
@@ -530,58 +530,114 @@ A table for recording molecular structures and identifying whether each is a rea
 
 1.  What evidence did you observe for capillary action?
 
+    - The paper towel becomes the bridge of the water in a graduated cylinder to move to an empty graduated cylinder.
+
 2.  How did water move between the beakers and why?
+
+    - Capilary action.
 
 3.  What property of water allows paperclips to float?
 
+    - cohesion.
+
 4.  What happened when detergent was added? Why?
+
+    - It fell from the surface. adhesion.
 
 5.  Describe how hydrogen bonding affects water properties.
 
+    - Creates that adhesion.
+
 6.  Compare cohesion and adhesion using your observations.
+
+    - Cohesion stick to itself, adhesion sticks to other matter.
 
 7.  Explain why surface tension decreases with detergent.
 
+    - It interferes with the hydrogen bonds.
+
 8.  How did adding water affect pH values?
+
+    - Decreases the acidity level.
 
 9.  Why does dilution change pH?
 
+    - Lowers the acidity concentration.
+
 10. What role do buffers play in pH stability?
+
+    - Regulates the acidity level.
 
 11. Compare experimental vs simulated pH observations.
 
+    - The pH level goes up as we add acidic solution.
+
 12. What challenges did you encounter using molecular models?
+
+    - N/A. Not performed this time.
 
 13. How did model building help your understanding?
 
+    - It helps see the structure in 3D.
+
 14. What differences did you observe between isomers?
+
+    - Isomer is having of the same molecular formula.
 
 15. How do structural formulas improve understanding over molecular formulas?
 
+    - It shows the bonding.
+
 16. Describe one real-life application of surface tension.
+
+    - Paper clip floating in the surface of the water.
 
 17. Why is water essential for life based on lab observations?
 
+    - A natural solution and it helps in transporting other molecules.
+
 18. How do chemical properties affect biological systems?
+
+    - Changes the interactions of molecules.
 
 **Check Your Understanding (Concept Questions)**
 
 1.  Why are carbon-based molecules so diverse?
 
+    - It can have four bonds.
+
 2.  How does molecular shape impact function?
+
+    - It affects how molecules should bond to the other.
 
 3.  Why is polarity critical for biological systems?
 
+    - Polarity creates that energy.
+
 4.  What would happen if water had low surface tension?
+
+    - All matters may start sinking.
 
 5.  Why is hydrogen bonding essential in biology?
 
+    - Helps and support molecules to move around.
+
 6.  Why must blood pH stay within a narrow range?
+
+    - Will affect the functions of the body systems.
 
 7.  How do buffers prevent drastic pH changes?
 
+    - Absorbs the excess hydrogen ion.
+
 8.  What is the significance of isomers in biology?
+
+    - Have the same molecules but can also be in different molecule structure.
 
 9.  How do structure and function relate in molecules?
 
+    - The differentiation in bond makes their function be different.
+
 10. Why are covalent bonds important in organic chemistry?
+
+    - Stabilizes the molecules by equally distributing the electrons.
