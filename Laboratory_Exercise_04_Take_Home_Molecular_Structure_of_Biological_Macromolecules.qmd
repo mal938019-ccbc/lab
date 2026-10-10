@@ -86,60 +86,60 @@ Define the following terms before beginning the lab.
 
 1.  Which element forms the backbone of most biological organic molecules?\
     A. Sodium\
-    B. Carbon\
+    **B. Carbon**\
     C. Chlorine\
     D. Potassium
 
 2.  Which class includes sugar and starches?\
     A. Lipids\
     B. Proteins\
-    C. Carbohydrates\
+    **C. Carbohydrates**\
     D. Nucleic acids
 
 3.  Which molecule is a monosaccharide?\
-    A. Glucose\
+    **A. Glucose**\
     B. Sucrose\
     C. Starch\
     D. Cellulose
 
 4.  Amino acids are the monomers of:\
-    A. Proteins\
+    **A. Proteins**\
     B. Lipids\
     C. Nucleic acids\
     D. Carbohydrates
 
 5.  Nucleotides are the monomers of:\
     A. Proteins\
-    B. Nucleic acids\
+    **B. Nucleic acids**\
     C. Lipids\
     D. Polysaccharides
 
 6.  Which molecule is a key component of cell membranes?\
-    A. Phospholipid\
+    **A. Phospholipid**\
     B. Glucose\
     C. Amino acid\
     D. Cellulose
 
 7.  Which lipid has a four-ring carbon structure?\
     A. Triglyceride\
-    B. Sterol\
+    **B. Sterol**\
     C. Phospholipid\
     D. Fatty acid
 
 8.  Which process breaks polymers by adding water?\
     A. Dehydration synthesis\
-    B. Hydrolysis\
+    **B. Hydrolysis**\
     C. Translation\
     D. Diffusion
 
 9.  Which biological molecule stores hereditary information?\
-    A. DNA\
+    **A. DNA**\
     B. Triglyceride\
     C. Starch\
     D. Cholesterol
 
 10. Which functional group is commonly found in amino acids?\
-    A. Amino group\
+    **A. Amino group**\
     B. Phosphate group only\
     C. Methyl group only\
     D. Sulfhydryl group only
@@ -148,23 +148,49 @@ Define the following terms before beginning the lab.
 
 11. What are the four major classes of biological molecules?
 
+    - Protein, carbohydrates, lipids, nucleic acid.
+
 12. What is the difference between a monomer and a polymer?
+
+    - monomer = single molecular unit.
+
+    - polymer = build with multiple monomer creating one large unit.
 
 13. What is a functional group?
 
+    - compound that has purpose.
+
 14. Why is carbon especially important in biological molecules?
+
+    - It can have four bonds.
 
 15. What atoms are commonly found in carbohydrates?
 
+    - Carbon, hydrogen, oxygen.
+
 16. What is the difference between starch and cellulose?
+
+    - Starch = plant storage of glucose.
+
+    - Cellulose = plant structural polymer for cell wall.
 
 17. What is the difference between a saturated and unsaturated fatty acid?
 
+    - Saturated = No C=C double bond.
+
+    - Unsaturated = C=C double bond.
+
 18. What does it mean for a molecule to be amphipathic?
+
+    - Has both hydrophilic and hydrophobic.
 
 19. What are the three parts of a nucleotide?
 
+    - Phosphate, carbon, nitrogen.
+
 20. Why is molecular shape important in biology?
+
+    - It shows how molecules interacts to the oth
 
 **Materials**
 
@@ -320,7 +346,7 @@ Examine saturated and unsaturated fatty acid models.
 
 4.  Explain how double bonds affect molecular shape.
 
-**\**
+\*\*\*\*
 
 **B. Triglycerides**
 
@@ -433,7 +459,7 @@ Examine a general amino acid model.
 
 5.  From your review of amino acids in your textbook, describe why the R group is significant.
 
-**\**
+\*\*\*\*
 
 **B. Amino Acid Categories**
 
@@ -518,7 +544,7 @@ A diagram illustrating the bonding pattern between a purine and a pyrimidine bas
 
 **Fig. 4.13:** bonding pattern of a puring end pyrimidine.
 
-**\**
+\*\*\*\*
 
 **DNA**
 
@@ -576,7 +602,7 @@ Functional groups are specific groups of atoms that give molecules characteristi
 **Table** **4.3. Functional Groups: Structure, Examples, and Biological Importance**
 
 | **Functional Group** | **General Structure** | **Example of Molecule/Class** **Where Found** | **Biological Importance** |
-|:---------------|:---------------|:------------------------|:---------------|
+|:----------------|:----------------|:-------------------|:----------------|
 | Hydroxyl |  |  |  |
 | Carboxyl |  |  |  |
 | Amino |  |  |  |
@@ -592,7 +618,7 @@ Choose one molecule from each class and explain how its structure supports its f
 **Table 4.4. Examples of biological molecules' features and function(s)**
 
 | **Biological Molecule** | **Structural Feature** |     | **Biological Function** |
-|:------------------|:-----------------|---------------|:------------------|
+|:-----------------|:-----------------|------------------|:-----------------|
 | Carbohydrate example    |                        |     |                         |
 | Lipid example           |                        |     |                         |
 | Protein example         |                        |     |                         |
@@ -691,7 +717,7 @@ In one well-developed paragraph, explain why structure is essential to biologica
 
 20. Compare DNA and RNA in terms of sugar, bases, strand numbers, and function.
 
-**\**
+\*\*\*\*
 
 ## **Student Ancillaries**
 
@@ -704,7 +730,7 @@ MolView is an easy-to-use chemical sketcher and viewer for small molecules. Expl
 ## **Appendix: Molecular Structure of Biological Molecules**
 
 | **Term** | **Definition** |
-|:---------------|:------------------------------------------------------|
+|:-------------------|:---------------------------------------------------|
 | Amino Acid | A molecule containing an amino group, carboxyl group, hydrogen, and variable R group; building blocks of proteins. |
 | Amino Group | A functional group (-NH2) consisting of nitrogen bonded to hydrogen; found in amino acids. |
 | Amphipathic | Having both hydrophilic (water-attracting) and hydrophobic (water-repelling) regions. |
