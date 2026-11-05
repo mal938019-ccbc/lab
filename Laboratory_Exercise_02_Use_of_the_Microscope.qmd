@@ -390,8 +390,7 @@ In this case "A" stands for the known field information of the measured field of
 
   - Describe the differences there are between the two 'e's. Hint: look at and describe its position and orientation.
 
-    ![](https://postimg.cc/fVYtj0k7)
-
+    
 > **Field of View and Depth of Field of a Microscope**
 
 - When viewing a specimen through a microscope, the visible area appears circular and is referred to as the **field of view**. The diameter of this circle decreases as magnification increases.
