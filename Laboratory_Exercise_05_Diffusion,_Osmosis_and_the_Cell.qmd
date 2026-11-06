@@ -69,7 +69,7 @@ By the end of this lab, students will be able to:
 7.  Energy (ATP) is required for:\
     A. Diffusion\
     B. Osmosis\
-    C. Active transport\
+    **C. Active transport**\
     D. Passive transport
 
 8.  Equilibrium means:\
@@ -134,8 +134,7 @@ By the end of this lab, students will be able to:
 >
 > Plant and animal cells will respond differently in hypertonic, hypotonic, and isotonic solutions. This is primarily due to the presence of a cell wall in plant cells, which is absent from animal cells. For example, an animal cell (such as a red blood cell) will **lyse** (burst open) in a hypotonic solution due to the movement of water molecules into the cell. A plant cell placed into a hypotonic solution is considered turgid, however, and will not lyse due to the presence of the cell wall.
 
-**\
-**
+**\**
 
 ## **Procedure**
 
@@ -191,8 +190,7 @@ i.  Using a fine tip pipette, carefully add:
 
 > **Important: Do not overfill the wells.**
 >
-> **\
-> **
+> **\**
 
 j.  When the two substances diffuse toward each other, they will react to form:
 
@@ -216,13 +214,13 @@ Figure 6.1. Agar petri plate with holes cut for BaCl~2~ and K~2~SO~4~ solutions
 
 > **Table 6.1. Distance from the Edge of the Cell to the Precipitate for Barium Chloride and Sodium Sulfate.**
 
-  ------------------------------------------------------------------------
-    **Chemical**   **Distance from Edge of Well to Precipitate (in cm)**
-  ---------------- -------------------------------------------------------
-    10% BaCl~2~    
-
-    10% K~2~S04    
-  ------------------------------------------------------------------------
++----------------+-------------------------------------------------------+
+| **Chemical**   | **Distance from Edge of Well to Precipitate (in cm)** |
++:==============:+:======================================================+
+| 10% BaCl~2~    |                                                       |
++----------------+-------------------------------------------------------+
+| 10% K~2~S04    |                                                       |
++----------------+-------------------------------------------------------+
 
 1.  **Interpretation**
 
@@ -250,15 +248,15 @@ Figure 6.1. Agar petri plate with holes cut for BaCl~2~ and K~2~SO~4~ solutions
 >
 > **Table 6.2: Dialysis Tubing**
 
-  -------------------------------------------------------------------------
-   **Tube \#**     **10 ml of:**     **Lay filled tube in beaker numbers**
-  -------------- ------------------ ---------------------------------------
-      1 & 6       Deionized Water                    1 & 6
-
-      2 & 5         20% Sucrose                      2 & 5
-
-      3 & 4         40% Sucrose                      3 & 4
-  -------------------------------------------------------------------------
++---------------+-----------------+---------------------------------------+
+| **Tube \#**   | **10 ml of:**   | **Lay filled tube in beaker numbers** |
++:=============:+:===============:+:=====================================:+
+| 1 & 6         | Deionized Water | 1 & 6                                 |
++---------------+-----------------+---------------------------------------+
+| 2 & 5         | 20% Sucrose     | 2 & 5                                 |
++---------------+-----------------+---------------------------------------+
+| 3 & 4         | 40% Sucrose     | 3 & 4                                 |
++---------------+-----------------+---------------------------------------+
 
 > 2\. Fill the dialysis tubing with the solutions listed in Table 6.2 in the following way:
 
@@ -270,7 +268,7 @@ c.  Measure 10 ml of liquid into the graduated cylinder
 
 d.  Fill the dialysis tube.
 
-e.  Gently press together at the tube\'s open end. Press out the air. Twist the tubing and tie it with string.
+e.  Gently press together at the tube's open end. Press out the air. Twist the tubing and tie it with string.
 
 f.  Rinse each tube gently with tap water to remove any spilled sucrose.
 
@@ -286,21 +284,21 @@ i.  Place the tube into the proper beaker.
 
 **Table 6.3. List of Beakers with their Solutions**
 
-+-----------------------+----------------------------------------------+
-| > **Beakers#**        | > **\~125-150 ml of the following:**         |
-+:=====================:+:============================================:+
-| 1                     | > Deionized Water                            |
-+-----------------------+----------------------------------------------+
-| 2                     | > Deionized Water                            |
-+-----------------------+----------------------------------------------+
-| 3                     | > Deionized Water                            |
-+-----------------------+----------------------------------------------+
-| 4                     | > 20% Sucrose                                |
-+-----------------------+----------------------------------------------+
-| 5                     | > 40% Sucrose                                |
-+-----------------------+----------------------------------------------+
-| 6                     | > 40% Sucrose                                |
-+-----------------------+----------------------------------------------+
++-----------------------+---------------------------------------------+
+| > **Beakers#**        | > **\~125-150 ml of the following:**        |
++:=====================:+:===========================================:+
+| 1                     | > Deionized Water                           |
++-----------------------+---------------------------------------------+
+| 2                     | > Deionized Water                           |
++-----------------------+---------------------------------------------+
+| 3                     | > Deionized Water                           |
++-----------------------+---------------------------------------------+
+| 4                     | > 20% Sucrose                               |
++-----------------------+---------------------------------------------+
+| 5                     | > 40% Sucrose                               |
++-----------------------+---------------------------------------------+
+| 6                     | > 40% Sucrose                               |
++-----------------------+---------------------------------------------+
 
 4.  Immediately start timing for a precise 10-minute interval.
 
@@ -346,19 +344,19 @@ Beaker #1 Beaker #2 Beaker #3
 >
 > **Table 6.4: Weights of Dialysis Tubes to the Nearest 0.1 g**
 
-  ------------------------------------------------------------------------------------------
-    **Time**    **TUBE 1**   **TUBE 2**   **TUBE 3**   **TUBE 4**   **TUBE 5**   **TUBE 6**
-  ------------ ------------ ------------ ------------ ------------ ------------ ------------
-   **0 MIN**                                                                    
-
-   **10 MIN**                                                                   
-
-   **20 MIN**                                                                   
-
-   **30 MIN**                                                                   
-
-   **40 MIN**                                                                   
-  ------------------------------------------------------------------------------------------
++------------+------------+------------+------------+------------+------------+------------+
+| **Time**   | **TUBE 1** | **TUBE 2** | **TUBE 3** | **TUBE 4** | **TUBE 5** | **TUBE 6** |
++:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+
+| **0 MIN**  |            |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+------------+
+| **10 MIN** |            |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+------------+
+| **20 MIN** |            |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+------------+
+| **30 MIN** |            |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+------------+
+| **40 MIN** |            |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+------------+
 
 > 18\. Transfer the data from Table 6.4 onto Graph 6.3. Be sure to add an appropriate title to the graph and clearly label both axes.
 
@@ -446,38 +444,38 @@ c.  You will also be using an undiluted 0.3M NaCl stock solution.
 
 **Table 6.5. Red Blood Cell Sketches and Observations**
 
-  -------------------------------------------------------------------------------
-  **Sketch/ Observations**   **0.3 M NaCl**    **0.15M NaCl**    **0.08M NaCl**
-  -------------------------- ----------------- ----------------- ----------------
-  **Initial**                                                    
-
-  **5-minutes**                                                  
-  -------------------------------------------------------------------------------
++--------------------------+----------------+----------------+----------------+
+| **Sketch/ Observations** | **0.3 M NaCl** | **0.15M NaCl** | **0.08M NaCl** |
++:=========================+:===============+:===============+:===============+
+| **Initial**              |                |                |                |
++--------------------------+----------------+----------------+----------------+
+| **5-minutes**            |                |                |                |
++--------------------------+----------------+----------------+----------------+
 
 Observations
 
 > **\
 > Table 6.6. Red Blood Cell Measurements** **(Size in ocular units (ou))**
 
-+--------------------------+-------------------+------------------+-----------------+
-| **Sketch/ Observations** | **0.3 M NaCl**    | **0.15M NaCl**   | **0.08M NaCl**  |
-+==========================+===================+==================+=================+
-| **Initial**              | Cell 1:           | Cell 1:          | Cell 1:         |
-|                          |                   |                  |                 |
-|                          | Cell 2:           | Cell 2:          | Cell 2:         |
-|                          |                   |                  |                 |
-|                          | Cell 3:           | Cell 3:          | Cell 3:         |
-|                          |                   |                  |                 |
-|                          | Average:          | Average:         | Average:        |
-+--------------------------+-------------------+------------------+-----------------+
-| **5-minutes**            | Cell 1:           | Cell 1:          | Cell 1:         |
-|                          |                   |                  |                 |
-|                          | Cell 2:           | Cell 2:          | Cell 2:         |
-|                          |                   |                  |                 |
-|                          | Cell 3:           | Cell 3:          | Cell 3:         |
-|                          |                   |                  |                 |
-|                          | Average:          | Average:         | Average:        |
-+--------------------------+-------------------+------------------+-----------------+
++--------------------------+----------------+----------------+----------------+
+| **Sketch/ Observations** | **0.3 M NaCl** | **0.15M NaCl** | **0.08M NaCl** |
++==========================+================+================+================+
+| **Initial**              | Cell 1:        | Cell 1:        | Cell 1:        |
+|                          |                |                |                |
+|                          | Cell 2:        | Cell 2:        | Cell 2:        |
+|                          |                |                |                |
+|                          | Cell 3:        | Cell 3:        | Cell 3:        |
+|                          |                |                |                |
+|                          | Average:       | Average:       | Average:       |
++--------------------------+----------------+----------------+----------------+
+| **5-minutes**            | Cell 1:        | Cell 1:        | Cell 1:        |
+|                          |                |                |                |
+|                          | Cell 2:        | Cell 2:        | Cell 2:        |
+|                          |                |                |                |
+|                          | Cell 3:        | Cell 3:        | Cell 3:        |
+|                          |                |                |                |
+|                          | Average:       | Average:       | Average:       |
++--------------------------+----------------+----------------+----------------+
 
 > To calculate the size at each period, take the average of the 3 cells measured.
 
@@ -575,11 +573,11 @@ Review the material related to the composition of a cell membrane. You should be
 
 - What are the functions of the following components:
 
-    - Phospholipids
+  - Phospholipids
 
-    - Cholesterol
+  - Cholesterol
 
-    - Proteins
+  - Proteins
 
 **Lab Activity 3.1 continued**
 
@@ -633,45 +631,45 @@ Using the information in table 3.2 review the cells structures and function(s) t
 
 **Table 4.6 Identify the Organelles and their Function.**
 
-  --------------------------------------------------------------------------------------------------
-  **Structure**                   **Model Number**              **Organelle function**
-  ------------------------------ ------------------ ----------- ------------------------------------
-                                     **Animal**      **Plant**  
-
-  Plasma membrane                                               
-
-  Cilia                                                         
-
-  Microvilli                                                    
-
-  Nucleolus                                                     
-
-  Nucleus                                                       
-
-  Nuclear envelope                                              
-
-  Nuclear pore                                                  
-
-  Ribosome                                                      
-
-  Vesicle                                                       
-
-  Peroxisome                                                    
-
-  Lysosome                                                      
-
-  Golgi apparatus                                               
-
-  Mitochondrion                                                 
-
-  Rough Endoplasmic Reticulum                                   
-
-  Smooth Endoplasmic Reticulum                                  
-
-  Centriole                                                     
-
-  Vacuole                                                       
-  --------------------------------------------------------------------------------------------------
++------------------------------+------------------+-------------+------------------------+
+| **Structure**                | **Model Number** |             | **Organelle function** |
++:=============================+:================:+=============+:=======================+
+|                              | **Animal**       | **Plant**   |                        |
++------------------------------+------------------+-------------+------------------------+
+| Plasma membrane              |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Cilia                        |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Microvilli                   |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Nucleolus                    |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Nucleus                      |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Nuclear envelope             |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Nuclear pore                 |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Ribosome                     |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Vesicle                      |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Peroxisome                   |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Lysosome                     |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Golgi apparatus              |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Mitochondrion                |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Rough Endoplasmic Reticulum  |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Smooth Endoplasmic Reticulum |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Centriole                    |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
+| Vacuole                      |                  |             |                        |
++------------------------------+------------------+-------------+------------------------+
 
 ## **Post-Lab Activities**
 
@@ -753,86 +751,86 @@ Using the information in table 3.2 review the cells structures and function(s) t
 
 ## **Appendix: Key Terms and Definitions for the Osmosis and the Cell Lab**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Term**                        **Definition**
-  ------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
-  Active Transport                The movement of substances across a cell membrane against their concentration gradient, requiring energy (ATP).
-
-  ATP (Adenosine Triphosphate)    The primary energy-carrying molecule used by cells to power processes such as active transport.
-
-  Brownian Motion                 The random movement of particles in a fluid is caused by collisions with other fast-moving molecules.
-
-  Cell Membrane                   A selectively permeable barrier composed of a phospholipid bilayer that regulates what enters and exits the cell.
-
-  Cell Wall                       A rigid outer layer found in plant cells that provides structure and prevents over-expansion during water uptake.
-
-  Centrioles                      Cylindrical structures involved in organizing microtubules and assisting in cell division in animal cells. 
-
-  Chromatin                       A complex of DNA and proteins (histones) that form chromosomes and help regulate gene expression. 
-
-  Chromosomes                     Threadlike structures made of DNA that carry genetic information, especially visible during cell division. 
-
-  Cilia                           Short, hair-like structures that move fluid or substances across the cell surface. 
-
-  Concentration Gradient          The difference in the concentration of a substance between two areas.
-
-  Cytoplasm (cytosol)             The gel-like substance inside the cell where organelles are suspended and many metabolic reactions occur. 
-
-  Cytoskeleton                    A network of protein filaments that provides structural support, shape, and movement for the cell. 
-
-  Dialysis Tubing                 A semi-permeable membrane used in experiments to model how substances move across cell membranes.
-
-  Diffusion                       The passive movement of molecules from an area of higher concentration to an area of lower concentration.
-
-  Equilibrium                     A state in which molecules are evenly distributed, resulting in no net movement.
-
-  Flagellum                       A long, whip-like structure that enables cell movement (e.g., sperm cell motility). 
-
-  Golgi apparatus                 An organelle that modifies, sorts, and packages proteins and lipids for transport. 
-
-  Hypertonic Solution             A solution with a higher solute concentration than the cell, causing water to move out of the cell.
-
-  Hypotonic Solution              A solution with a lower solute concentration than the cell, causing water to move into the cell.
-
-  Isotonic Solution               A solution with equal solute concentration inside and outside the cell, resulting in no net water movement.
-
-  Lysosome                        A membrane-bound organelle containing digestive enzymes that break down waste materials and cellular debris. 
-
-  Mass Change                     A measurable increase or decrease in mass used to determine water movement during osmosis experiments.
-
-  Microvilli                      Small, finger-like projections that increase surface area for absorption, commonly found in intestinal cells. 
-
-  Mitochondria                    Organelles that generate energy (ATP) through cellular respiration; often called the cell's \'powerhouse.\' 
-
-  Nucleus                         A membrane-bound organelle that contains the cell's DNA and controls cellular activities. 
-
-  Nuclear envelope                A double membrane that surrounds the nucleus, containing pores that regulate material exchange. 
-
-  Nucleolus                       A dense region within the nucleus where ribosomal RNA (rRNA) is produced, and ribosome assembly begins. 
-
-  Osmosis                         The passive movement of water across a selectively permeable membrane from an area of lower solute concentration to higher solute concentration.
-
-  Passive Transport               The movement of substances across a membrane without the use of cellular energy, following the concentration gradient.
-
-  Peroxisome                      An organelle containing enzymes that break down fatty acids and detoxify harmful substances using oxygen. 
-
-  Phospholipid Bilayer            The double layer of phospholipids that forms the basic structure of the cell membrane, with hydrophilic heads and hydrophobic tails.
-
-  Red Blood Cells                 Animal cells are often used in experiments to observe membrane behavior in different solutions.
-
-  Ribosome                        A small organelle responsible for protein synthesis, found free in the cytosol or attached to rough ER. 
-
-  Rough endoplasmic reticulum     A membrane network studded with ribosomes involved in protein synthesis and folding. 
-
-  Selective Permeability          The property of a membrane that allows some substances to pass while restricting others.
-
-  Smooth endoplasmic reticulum    A membrane network without ribosomes involved in lipid synthesis and detoxification. 
-
-  Solute                          A substance that is dissolved in a solution.
-
-  Solvent                         The substance (often water) that dissolves the solute to form a solution.
-
-  Transport Mechanism             Any process that allows substances to move across the cell membrane (e.g., diffusion, osmosis, active transport).
-
-  Turgor Pressure                 The pressure exerted by water inside a plant cell against the cell wall, helping maintain structure.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Term**                      | **Definition**                                                                                                                                   |
++:==============================+:=================================================================================================================================================+
+| Active Transport              | The movement of substances across a cell membrane against their concentration gradient, requiring energy (ATP).                                  |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| ATP (Adenosine Triphosphate)  | The primary energy-carrying molecule used by cells to power processes such as active transport.                                                  |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Brownian Motion               | The random movement of particles in a fluid is caused by collisions with other fast-moving molecules.                                            |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cell Membrane                 | A selectively permeable barrier composed of a phospholipid bilayer that regulates what enters and exits the cell.                                |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cell Wall                     | A rigid outer layer found in plant cells that provides structure and prevents over-expansion during water uptake.                                |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Centrioles                    | Cylindrical structures involved in organizing microtubules and assisting in cell division in animal cells.                                       |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Chromatin                     | A complex of DNA and proteins (histones) that form chromosomes and help regulate gene expression.                                                |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Chromosomes                   | Threadlike structures made of DNA that carry genetic information, especially visible during cell division.                                       |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cilia                         | Short, hair-like structures that move fluid or substances across the cell surface.                                                               |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Concentration Gradient        | The difference in the concentration of a substance between two areas.                                                                            |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cytoplasm (cytosol)           | The gel-like substance inside the cell where organelles are suspended and many metabolic reactions occur.                                        |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cytoskeleton                  | A network of protein filaments that provides structural support, shape, and movement for the cell.                                               |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dialysis Tubing               | A semi-permeable membrane used in experiments to model how substances move across cell membranes.                                                |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diffusion                     | The passive movement of molecules from an area of higher concentration to an area of lower concentration.                                        |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Equilibrium                   | A state in which molecules are evenly distributed, resulting in no net movement.                                                                 |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Flagellum                     | A long, whip-like structure that enables cell movement (e.g., sperm cell motility).                                                              |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Golgi apparatus               | An organelle that modifies, sorts, and packages proteins and lipids for transport.                                                               |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hypertonic Solution           | A solution with a higher solute concentration than the cell, causing water to move out of the cell.                                              |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hypotonic Solution            | A solution with a lower solute concentration than the cell, causing water to move into the cell.                                                 |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Isotonic Solution             | A solution with equal solute concentration inside and outside the cell, resulting in no net water movement.                                      |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Lysosome                      | A membrane-bound organelle containing digestive enzymes that break down waste materials and cellular debris.                                     |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mass Change                   | A measurable increase or decrease in mass used to determine water movement during osmosis experiments.                                           |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Microvilli                    | Small, finger-like projections that increase surface area for absorption, commonly found in intestinal cells.                                    |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mitochondria                  | Organelles that generate energy (ATP) through cellular respiration; often called the cell's 'powerhouse.'                                        |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nucleus                       | A membrane-bound organelle that contains the cell's DNA and controls cellular activities.                                                        |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nuclear envelope              | A double membrane that surrounds the nucleus, containing pores that regulate material exchange.                                                  |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nucleolus                     | A dense region within the nucleus where ribosomal RNA (rRNA) is produced, and ribosome assembly begins.                                          |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Osmosis                       | The passive movement of water across a selectively permeable membrane from an area of lower solute concentration to higher solute concentration. |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Passive Transport             | The movement of substances across a membrane without the use of cellular energy, following the concentration gradient.                           |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Peroxisome                    | An organelle containing enzymes that break down fatty acids and detoxify harmful substances using oxygen.                                        |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Phospholipid Bilayer          | The double layer of phospholipids that forms the basic structure of the cell membrane, with hydrophilic heads and hydrophobic tails.             |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Red Blood Cells               | Animal cells are often used in experiments to observe membrane behavior in different solutions.                                                  |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ribosome                      | A small organelle responsible for protein synthesis, found free in the cytosol or attached to rough ER.                                          |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rough endoplasmic reticulum   | A membrane network studded with ribosomes involved in protein synthesis and folding.                                                             |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Selective Permeability        | The property of a membrane that allows some substances to pass while restricting others.                                                         |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Smooth endoplasmic reticulum  | A membrane network without ribosomes involved in lipid synthesis and detoxification.                                                             |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Solute                        | A substance that is dissolved in a solution.                                                                                                     |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Solvent                       | The substance (often water) that dissolves the solute to form a solution.                                                                        |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Transport Mechanism           | Any process that allows substances to move across the cell membrane (e.g., diffusion, osmosis, active transport).                                |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Turgor Pressure               | The pressure exerted by water inside a plant cell against the cell wall, helping maintain structure.                                             |
++-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
