@@ -130,12 +130,12 @@ During this activity you will work in *pairs.*
 
 | **Phase**  | **Individual totals** | **Group Total** | **Percent** |
 |:-----------|:----------------------|:----------------|:------------|
-| Interphase | 12                    |                 |             |
-| Prophase   | 56                    |                 |             |
-| Metaphase  |                       |                 |             |
-| Anaphase   |                       |                 |             |
-| Telophase  |                       |                 |             |
-| Total      |                       |                 | 100%        |
+| Interphase | 92                    | 500             | 59.17%      |
+| Prophase   | 11                    | 265             | 31.36%      |
+| Metaphase  | 5                     | 40              | 4.73%       |
+| Anaphase   | 4                     | 23              | 2.72%       |
+| Telophase  | 3                     | 17              | 2.01%       |
+| Total      | 115                   | 845             | 100%        |
 
 ### **Calculating Mitotic Index**
 
@@ -162,6 +162,15 @@ Cells in mitosis = Prophase + Metaphase + Anaphase + Telophase
 1.  Locate the whitefish eggs using the scanning lens (40×), then switch to the high power (400×) lens.
 
 2.  Scan the prepared whitefish blastula slides as indicated in Figure 10.4.
+
+    | **Phase**  | **Individual totals** |
+    |:-----------|:----------------------|
+    | Interphase | 23                    |
+    | Prophase   | 6                     |
+    | Metaphase  | 3                     |
+    | Anaphase   | 3                     |
+    | Telophase  | 2                     |
+    | Total      | 37                    |
 
 3.  Locate cells undergoing mitosis.
 
